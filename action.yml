@@ -1,7 +1,7 @@
-name: sondreb/action-release
+name: shtah/action-release
 description: |
   GitHub Release Action
-author: Sondre Bjellås
+author: Yurii Bulakh
 branding:
   icon: box
   color: gray-dark
